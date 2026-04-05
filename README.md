@@ -1,88 +1,21 @@
-# 👋 Hi, I'm Ayush Sharma
+# 💫 About Me:
+# 👋 Hi, I'm Ayush Sharma<br><br>💻 **BCA Student | Full Stack Developer (MERN)**<br>🚀 Passionate about building real-world applications<br>📚 Currently exploring advanced backend & scalable systems<br><br>---<br><br>## 🚀 About Me<br><br>* 🎓 Final Year BCA Student (2023–2026)<br>* 💡 Built a **College Management System (CMS)**<br>* 🔧 Love working on real-world problem-solving projects<br>* 🌱 Currently learning **Advanced Backend & System Design**<br>* 🎯 Goal: Become a Professional Software Developer<br><br>---<br>
 
-💻 **BCA Student | Full Stack Developer (MERN)**
-🚀 Passionate about building real-world applications
-📚 Currently exploring advanced backend & scalable systems
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iayushsharma05) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iayushsharma05) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ayush0123sh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iayushsharma05@gmail.com) 
 
-## 🚀 About Me
+# 💻 Tech Stack:
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=iayushsharma05&theme=date_night&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=iayushsharma05&theme=date_night&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iayushsharma05&theme=date_night&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-* 🎓 Final Year BCA Student (2023–2026)
-* 💡 Built a **College Management System (CMS)**
-* 🔧 Love working on real-world problem-solving projects
-* 🌱 Currently learning **Advanced Backend & System Design**
-* 🎯 Goal: Become a Professional Software Developer
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Frontend
-
-* HTML5, CSS3, JavaScript
-* React.js
-* Bootstrap
-
-### ⚙️ Backend
-
-* Node.js
-* Express.js
-
-### 🗄️ Database
-
-* MongoDB
-* Mongoose
-
-### 🧰 Tools & Others
-
-* Git & GitHub
-* VS Code
-* Postman
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=iayushsharma05&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=iayushsharma05&icon=2&color=0)](https://visitcount.itsvg.in)
 
-## 📂 Projects
-
-### 🎓 College Management System (CMS)
-
-* 👨‍🎓 Student Management
-* 💰 Fees Management System
-* 🗓️ Timetable Management
-* 📊 Attendance Tracking
-* 👨‍🏫 Staff Panel & Admin Dashboard
-
----
-
-## 📈 GitHub Stats
-
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=iayushsharma05\&show_icons=true\&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=iayushsharma05\&theme=tokyonight)
-
----
-
-## 📊 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iayushsharma05\&layout=compact\&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
-
-* 💼 LinkedIn: (Add your link)
-* 📧 Email: (Add your email)
-
----
-
-## ⚡ Fun Fact
-
-> I love turning ideas into real-world applications 🚀
-
----
-
-⭐ **Feel free to check out my repositories and give a star!**
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
