@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 👋 Hi, I'm Ayush Sharma<br><br>💻 **BCA Student | Full Stack Developer (MERN)**<br>🚀 Passionate about building real-world applications<br>📚 Currently exploring advanced backend & scalable systems<br><br>---<br><br>## 🚀 About Me<br><br>* 🎓 Final Year BCA Student (2023–2026)<br>* 💡 Built a **College Management System (CMS)**<br>* 🔧 Love working on real-world problem-solving projects<br>* 🌱 Currently learning **Advanced Backend & System Design**<br>* 🎯 Goal: Become a Professional Software Developer<br><br>---<br>
 
 
